@@ -1,0 +1,11 @@
+- automatically delete world
+- smp
+- custom generators for challenges
+- custom win/loose conditions
+- keep current running challenge after server restart
+- REEEEFACTOR
+
+
+
+
+az container create --resource-group minecraft-challenge-server  --name challenge-server-instance-1  --image minecraftchallengeserver.azurecr.io/challenge-server:latest  --environment-variables EULA=TRUE OPS=p1sseule TYPE=PAPER MEMORY=2G  --ports 25565  --ip-address Public  --azure-file-volume-account-name mcstorageunique123  --azure-file-volume-share-name minecraftdata  --azure-file-volume-mount-path /data  --cpu 4 --memory 16 --os-type Linux --dns-name-label schwein-live-challenge-mc
