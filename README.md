@@ -19,4 +19,11 @@ die challenge macht die welten automatisch mit multiverse core usw
 das challenge start event nimmt einfach alle leute in der lobby weil ich keinen bock hatte ein menu mit spielern zu machen und tped sie zu den welten
 
 
+du brauchst die Plugins auch in plugin folder typeshit:
+- https://luckperms.net/download
+- https://modrinth.com/plugin/multiverse-inventories
+- https://modrinth.com/plugin/multiverse-core
+- https://modrinth.com/plugin/multiverse-portals
+- https://modrinth.com/plugin/multiverse-netherportals
+  
 <img width="600" height="534" alt="skischneckeschwein2" src="https://github.com/user-attachments/assets/e5bf6b40-c547-44f7-a077-27845fa7b334" />
